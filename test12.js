@@ -1,4 +1,4 @@
-//Methods
+//String Methods
 
 //charAt(index)
 let str1 = "Hello";
